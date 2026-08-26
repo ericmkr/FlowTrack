@@ -1,0 +1,205 @@
+Beaucoup de jeunes UX designers pensent qu’il suffit d’un questionnaire… mais en réalité, tout dépend de ton objectif, de tes moyens et du contexte du projet.
+Je t’explique tout simplement 👇
+
+🧭 1. Le rôle du User Research
+
+Le User Research n’est pas une seule méthode : c’est un processus d’enquête pour comprendre :
+
+- qui sont tes utilisateurs
+
+- ce qu’ils veulent vraiment
+
+- comment ils se comportent
+
+- pourquoi ils font (ou ne font pas) certaines actions
+
+L’idée, c’est de collecter des données qualitatives et/ou quantitatives, puis de les analyser pour concevoir des solutions pertinentes.
+
+
+🧩 2. Tes méthodes — comment les comprendre
+
+Voici une simplification rapide de celles que tu cites
+
+Méthode				Type			Objectif						Exemple d’usage pour FlowTrack
+Concept Ranking			Quantitatif		Faire choisir entre plusieurs concepts			Tester plusieurs designs ou messages (“flow”, “zen”, “productif”)
+Card Sorting			Qualitatif		Comprendre comment les gens classent des infos		Organiser les menus ou catégories de ton app
+Follow Around / Shop Alongs	Observation		Observer le comportement en situation réelle		Suivre un utilisateur dans sa journée pour voir comment il gère ses objectifs
+User Diaries			Qualitatif		Observer les routines sur plusieurs jours		Demander à un utilisateur de noter quand et pourquoi il planifie ses tâches
+Journey Mapping	Synthèse UX	Visualiser l’expérience utilisateur complète					Décrire le parcours : “Je me connecte ➜ Je consulte mes objectifs ➜ Je coche mes réussites”
+Contextual Inquiry		Entretien sur le terrain	Observer et questionner pendant l’action	Regarder un utilisateur utiliser une app de tâches existante
+Surveys (questionnaires)	Quantitatif		Obtenir des données rapides et globales	Poser des questions simples à plusieurs utilisateurs potentiels
+
+
+⚙️ 3. Comment appliquer ça à ton cas (FlowTrack)
+
+Tu n’as pas besoin de toutes ces méthodes.
+Ce qu’il faut, c’est adapter ton niveau d’étude à ton projet.
+
+👉 Tu peux faire une version simple du User Research en 5 étapes :
+Étape			Description				Exemple concret pour FlowTrack
+1. Plan (planifier)	Définis tes objectifs de recherche	“Je veux comprendre comment les jeunes actifs gèrent leurs objectifs quotidiens.”
+2. Define (définir)	Choisis les méthodes			Petit questionnaire + 2 entretiens + mini test de prototype
+3. Recruit (recruter)	Trouve des participants	3 à 5 personnes dans ton entourage (étudiants, jeunes pros)
+4. Conduct (réaliser)	Fais passer tes questionnaires ou entretiens	- Questionnaire Google Form
+- Entretien en visio ou en personne
+5. Analyze (analyser)	Regroupe les réponses, fais ressortir les tendances	“Les gens veulent une app simple, pas de notifications, juste une vue claire du jour.”
+
+💬 👉 Donc oui : un questionnaire peut suffire, si tu l’intègres dans un mini protocole réfléchi.
+Mais il ne suffit pas à lui seul pour comprendre les émotions ou les comportements. Tu peux donc le compléter avec 1 ou 2 entretiens courts (10–15 min chacun).
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+📋 4. Exemple concret de ton “User Research Guide” pour FlowTrack
+
+Voici à quoi pourrait ressembler ton plan de recherche :
+
+FlowTrack – User Research Plan
+
+🎯 Objectif de la recherche :
+Comprendre comment les utilisateurs gèrent leurs objectifs quotidiens et identifier leurs frustrations vis-à-vis des applications de productivité existantes.
+
+👥 Participants :
+5 utilisateurs potentiels (étudiants, freelances, jeunes actifs)
+
+📦 Méthodes choisies :
+
+Survey (Google Form) pour des données générales
+
+Mini entretiens semi-directifs (10–15 min) pour comprendre leurs ressentis
+
+Journey Mapping pour synthétiser leurs expériences
+
+📅 Processus :
+
+Préparer le questionnaire (10–12 questions simples)
+
+Réaliser 2–3 entretiens via appel ou chat
+
+Analyser les résultats et extraire les besoins / frustrations
+
+Créer un User Persona et un User Journey Map
+
+Souhaites-tu que je te rédige un exemple concret de questionnaire utilisateur (10 questions bien formulées) que tu pourrais envoyer directement à des participants pour FlowTrack ?
+Ce serait un bon point de départ pour ton guide.
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+🎯 Objectif général
+
+Valider les besoins, frustrations et motivations des utilisateurs potentiels d’un outil de suivi d’habitudes, afin d’orienter la conception de FlowTrack vers une expérience simple, engageante et utile au quotidien.
+
+🧭 Étape 1 – Plan
+
+But : Définir le cadre de ta recherche.
+
+Objectifs spécifiques :
+
+Comprendre comment les gens suivent actuellement leurs habitudes (ou pourquoi ils ne le font pas).
+
+Identifier ce qu’ils trouvent difficile dans les apps de suivi existantes.
+
+Découvrir les fonctionnalités ou expériences qu’ils jugent motivantes.
+
+Évaluer leur intérêt pour une interface simple et personnalisable.
+
+Méthodes retenues :
+
+Survey (questionnaire) → pour obtenir une vision quantitative rapide.
+
+Contextual Inquiry / Mini interviews → pour recueillir des données qualitatives (optionnel mais très utile).
+
+Échantillon cible :
+
+10 à 20 personnes entre 18 et 35 ans, connectées, habituées à utiliser des apps mobiles (ou motivées à améliorer leur organisation).
+
+Profils : étudiants, jeunes professionnels, créateurs, freelances.
+
+📋 Étape 2 – Define
+
+But : Formuler les questions clés à explorer.
+
+Quelles sont les habitudes que les utilisateurs cherchent le plus à suivre ?
+
+Qu’est-ce qui les empêche de rester constants ?
+
+Qu’est-ce qu’ils aimeraient voir dans une app de ce type ?
+
+Quelle interface les motive à revenir chaque jour ?
+
+Quelles émotions ressentent-ils lorsqu’ils manquent un objectif ?
+
+🙋 Étape 3 – Recruit
+
+But : Trouver les participants.
+Tu peux recruter des volontaires dans ton entourage :
+
+amis, camarades, collègues, ou sur des forums (ex : Discords productivité, Reddit, WhatsApp, etc.).
+💡 Offre un petit avantage symbolique : mention dans ton rapport, partage des résultats ou simple remerciement personnalisé.
+
+🗣️ Étape 4 – Conduct
+
+But : Réaliser la recherche.
+
+✅ Si tu fais un questionnaire (survey) :
+
+Utilise Google Forms, Typeform, ou Notion Forms.
+Voici un exemple de structure :
+
+A. Informations générales
+
+Âge : ___
+
+Profession : ___
+
+Utilises-tu une app de suivi d’habitudes ? (Oui / Non)
+
+Si oui, laquelle ?
+
+B. Habitudes et motivations
+
+Quelles habitudes aimerais-tu suivre ou améliorer ?
+
+Qu’est-ce qui t’aide le plus à rester constant ?
+
+Qu’est-ce qui te décourage dans ce genre d’apps ?
+
+À quelle fréquence consultes-tu ton app (ou aimerais-tu le faire) ?
+
+Quelle fonctionnalité te semblerait essentielle pour FlowTrack ?
+
+C. Expérience et design
+
+Préfères-tu une interface très visuelle ou minimaliste ?
+
+Sur quelle plateforme utiliserais-tu le plus FlowTrack ? (Web, mobile, desktop)
+
+Que devrait te faire ressentir une bonne app de suivi ?
+
+✅ Si tu veux ajouter une mini-interview (contextual inquiry) :
+
+Pose 5-6 questions ouvertes en face-à-face ou en visio.
+Ex :
+
+Montre-moi comment tu t’organises aujourd’hui pour suivre tes progrès.
+
+Qu’est-ce que tu trouves frustrant ou lent dans ton app actuelle ?
+
+Si tu pouvais concevoir ta propre app, que changerais-tu ?
+
+📊 Étape 5 – Analyze
+
+But : Synthétiser tes résultats.
+
+Regroupe les réponses similaires en thèmes (ex. “manque de motivation”, “trop complexe”, “design peu engageant”).
+
+Crée une carte d’empathie (ce que les utilisateurs disent / pensent / font / ressentent).
+
+Identifie les 3 insights clés à transformer en exigences de design.
+
+🧠 Exemple de 3 insights possibles :
+
+Les utilisateurs veulent une expérience fluide et rapide, sans distractions.
+
+Ils se sentent découragés lorsqu’ils manquent un jour : il faut donc un système de rattrapage ou de motivation douce.
+
+Ils apprécient la visualisation des progrès (graphiques, chaînes, badges).

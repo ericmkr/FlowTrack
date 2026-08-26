@@ -1,0 +1,45 @@
+Parfait Eric 👌 On va construire un User Journey Map (UJM) détaillé pour FlowTrack, en suivant le format classique : phases → étapes (steps) → objectifs (goals) → points de friction / frustrations (pain points).
+Je vais te le présenter persona par persona, puis on pourra synthétiser pour ton design.
+
+1️⃣ Léa N’Goma — La perfectionniste débordée
+
+Phase				Steps (Étapes)					Goals (Objectifs)						Pain Points (Frictions / frustrations)
+Découverte			Télécharge FlowTrack sur Android		Trouver une app simple et bienveillante				Trop d’options dans d’autres apps
+Onboarding			Crée un compte / personnalise son profil	Comprendre rapidement l’interface et les fonctionnalités	Surcharge cognitive
+Planification quotidienne	Ajoute ses tâches / objectifs du jour		Planifier ses études, stage et temps perso facilement		Difficulté à organiser toutes ses tâches
+Exécution des tâches		Coche les tâches accomplies			Suivre ses progrès et rester motivée				Notifications trop intrusives
+Feedback / Motivation		Consulte la progression				Se sentir encouragée et satisfaite de ses accomplissements	Absence de feedback positif dans d’autres apps
+Réflexion / Ajustement		Vérifie et ajuste ses objectifs			Identifier ce qui fonctionne et ce qui doit changer		Graphiques complexes
+
+
+2️⃣ Yann Kouadio — Le jeune pro ambitieux
+
+Phase				Steps						Goals								Pain Points
+Découverte			Cherche une app pour suivre ses routines	Trouver un outil professionnel et sérieux			Apps gamifiées ou enfantines
+Onboarding			Configure tableau de bord / priorisation	Visualiser ses objectifs du jour et leurs priorités		Configuration complexe ou manque de guidance
+Planification quotidienne	Ajoute tâches pro et perso avec priorités	Organiser efficacement sa journée				Interface peu intuitive
+Exécution des tâches		Coche les tâches accomplies			Suivre le progrès et rester motivé				Rappels mal positionnés ou intrusifs
+Feedback / Analyse		Consulte statistiques, graphiques mensuels	Mesurer constance et performance				Graphiques peu clairs ou non exportables
+Export / Synchronisation	Synchronise données avec Notion / cloud		Conserver un suivi global de ses performances			Difficultés de synchronisation multi appareils
+
+
+3️⃣ Sarah Basse — La créative dispersée
+
+Phase				Steps						Goals								Pain Points
+Découverte			App combinant productivité et créativité	Trouver une app esthétique et flexible				Apps trop rigides ou monotones
+Onboarding			Choisit thème visuel / personnalise interface	Créer un environnement motivant et inspirant			Options de personnalisation limitées
+Planification quotidienne	Ajoute tâches créatives et professionnelles	Structurer sa journée sans perdre liberté			Difficulté à réorganiser les tâches
+Exécution des tâches		Coche les tâches accomplies			Maintenir motivation et constance				Feedback absent, démotivation rapide
+Feedback / Visualisation	Consulte streaks / progressions visuelles	Voir ses progrès de manière ludique				Graphiques peu esthétiques ou rigides
+Réflexion / Ajustement		Réorganise tâches selon inspiration		Adapter la journée à son humeur créative			Manque de flexibilité dans la planification
+
+
+🔗 Synthèse transversale
+
+Phase clé			Objectif commun						Pain Points communs
+Découverte			Identifier une app simple et motivante			Apps concurrentes trop complexes ou rigides
+Onboarding			Comprendre l’interface et configurer ses préférences	Courbe d’apprentissage élevée, trop de paramétrages
+Planification quotidienne	Ajouter et organiser ses tâches rapidement		Difficulté à hiérarchiser et structurer efficacement
+Exécution			Cocher tâches et suivre progrès				Notifications stressantes ou feedback absent
+Feedback / Visualisation	Suivre progression et rester motivé			Graphiques non intuitifs, absence de motivation positive
+Réflexion / Ajustement		Ajuster objectifs selon résultats			Peu de flexibilité ou outils non adaptatifs

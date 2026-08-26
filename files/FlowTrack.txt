@@ -1,0 +1,24 @@
+FlowTrack est une mini application mobile simple et élégante conçue pour aider les utilisateurs à suivre leurs objectifs personnels quotidiens. Il permet également une collaboration entre utilisateurs au sein d'une organisation.
+
+Ajouter des notifications pour encourager la continuation des séries
+Créer un graphique de tendance pour visualiser votre performance sur plusieurs semaines
+Permettre de partager vos accomplissements sur les réseaux sociaux. Oriente une feature de collaboration pour les entreprises et groupes de personnes.
+
+Fonctionnalités de collaboration :
+Création d'équipes avec descriptions
+Système d'invitations par email
+Objectifs d'équipe partagés avec filtre personnel/tous
+Tableau de bord avec statistiques et classement des membres
+Gestion des rôles (propriétaire, admin, membre)
+
+
+
+Atteignez vos objectifs quotidiens avec FlowTrack
+Transformez vos ambitions en actions. FlowTrack est l'application simple et intuitive pour suivre vos habitudes, gérer vos tâches et réaliser vos rêves jour après jour.
+
+Pourquoi FlowTrack est différent?
+FlowTrack combine la simplicité avec des fonctionnalités puissantes pour vous aider à rester concentré et motivé.
+
+Sur la toute première page lorsqu'on ouvre l'application, le logo s'affiche et une animation de chargement de la page est lancé. Entre chaque navigation entre les pages, affiche le logo et une animation de chargement. Sur le dashboard, il est possible de créer une tache grace au cta Créer une tâche (qui ouvre un popup de formulaire pour renseigner: le titre de la nouvelle tâche, la description de la tâche, la date de la tâche, l'importance et l'ordre de priorité de la tâche), tout comme il est possible de supprimer une ou plusieurs tâches en partant d'un cta Gérer les taches (qui ouvre une nouvelle page Tasks List avec uniquement les tâches enregistrées et un système de filtre pour la précision de la tâche). Sur le Goal Calendar, il y a un système de filtre pour des dates plus précises. Il ya aussi la fonctionnalité de déconnexion sur la page dashboard, renvoyant sur la page sign in. Conçois également une page Create Team dans laquelle on a les points suivants : Nom de l'équipe à renseigner, la description, et les membres à inviter.
+
++ page settings

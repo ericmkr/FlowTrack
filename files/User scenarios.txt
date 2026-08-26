@@ -1,0 +1,98 @@
+Scénarios d’interaction FlowTrack
+
+1️⃣ Léa N’Goma — La perfectionniste débordée
+
+Contexte :
+Léa est au campus après sa journée de cours et souhaite planifier ses objectifs du lendemain. Elle veut une expérience rapide, sans stress, qui l’aide à se sentir motivée.
+
+Scénario :
+
+- Elle ouvre FlowTrack sur son smartphone Android.
+
+- Elle se connecte via son compte (connexion rapide sauvegardée).
+
+- Elle voit son dashboard du jour : les objectifs déjà planifiés et un cercle de progression global.
+
+- Elle ajoute une tâche “réviser pour le cours de marketing” via le bouton “+”.
+
+- Elle coche une tâche accomplie : FlowTrack affiche un feedback positif (“Bravo, tu avances bien ! 🌿”).
+
+- Elle consulte rapidement la progression hebdomadaire pour se rassurer sur ses habitudes.
+
+- Elle se déconnecte et range son téléphone, satisfaite de la clarté et de la simplicité de l’app.
+
+Objectifs UX :
+
+- Simplicité et rapidité
+
+- Feedback positif et motivant
+
+- Dashboard clair et lisible
+
+
+2️⃣ Yann Kouadio — Le jeune pro ambitieux
+
+Contexte :
+Yann est en coworking et veut vérifier ses objectifs professionnels et personnels pour la journée. Il recherche des données claires et des indicateurs précis.
+
+Scénario :
+
+- Yann ouvre FlowTrack sur son laptop.
+
+- Il accède au dashboard : affichage de la progression quotidienne avec barres et graphiques.
+
+- Il ajoute un objectif “Terminer le module React” et fixe une priorité élevée.
+
+- Il coche “Exercice physique” comme accompli : la barre de progression se met à jour instantanément.
+
+- Il consulte le graphique mensuel pour visualiser la constance de ses habitudes.
+
+- Il exporte ses données pour les intégrer à son planning global sur Notion.
+
+- Satisfait, il ferme FlowTrack, prêt à attaquer sa journée.
+
+Objectifs UX :
+
+- Tableau de bord analytique et clair
+
+- Possibilité de fixer des priorités
+
+- Synchronisation multi-appareils / export de données
+
+
+3️⃣ Sarah Basse — La créative dispersée
+
+Contexte :
+Sarah vient de finir un projet client et veut structurer ses prochaines sessions créatives sans perdre sa liberté. Elle cherche une interface inspirante et flexible.
+
+Scénario :
+
+- Elle ouvre FlowTrack sur son iPad.
+
+- Elle choisit le thème coloré “Créativité” pour son interface.
+
+- Elle ajoute deux objectifs pour la journée : “Esquisser storyboard” et “Poster sur Instagram”.
+
+- Elle coche “Esquisser storyboard” : FlowTrack affiche un micro feedback visuel (animation subtile, confettis).
+
+- Elle visualise la chaîne de réussite (habit streak) pour rester motivée.
+
+- Elle ajuste l’ordre de ses tâches facilement, selon son humeur créative.
+
+- Elle ferme FlowTrack, inspirée et organisée.
+
+Objectifs UX :
+
+- Personnalisation visuelle (thèmes, couleurs)
+
+- Feedback positif et ludique
+
+- Flexibilité et contrôle total sur l’ordre et la priorité des tâches
+
+
+🔗 Synthèse pour le design UX
+
+Persona		Objectif			Interactions clés					Feedback attendu
+Léa		Suivi quotidien simple		Dashboard clair, cocher tâches, ajouter objectif	Feedback motivant, simple et positif
+Yann		Productivité mesurable		Dashboard analytique, priorités, export de données	Graphiques précis, progression fiable
+Sarah		Structurer créativité		Choix thème, ajouter/ordonner tâches			Feedback visuel, ludique, flexible

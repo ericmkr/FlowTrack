@@ -1,0 +1,110 @@
+Parfait Eric 🔥 On entre dans la phase créative UX : transformer les insights du User Research et du User Journey Map en idées concrètes pour le design de FlowTrack.
+On va générer un Affinity Mapping (regroupement des idées / besoins par thèmes) et ensuite des User Stories structurées pour le développement.
+
+1️⃣ Affinity Mapping (FlowTrack)
+
+Catégorie 1 : Simplicité & Rapidité
+
+- Dashboard clair et minimaliste
+
+- Ajout rapide de tâches ou objectifs
+
+- Navigation intuitive entre écrans
+
+- Option “vue du jour” pour un focus immédiat
+
+- Onboarding guidé et rapide
+
+
+Catégorie 2 : Motivation & Feedback
+
+- Feedback positif à chaque tâche complétée
+
+- Micro-animations / encouragements (ex : confettis, étoiles)
+
+- Suivi de streaks / chaînes de réussite
+
+- Notifications douces et personnalisables
+
+
+Catégorie 3 : Flexibilité & Personnalisation
+
+- Choix de thèmes visuels (minimaliste, créatif, coloré)
+
+- Réorganisation facile des tâches selon humeur / priorité
+
+- Possibilité de créer catégories ou tags pour objectifs
+
+- Options d’affichage (liste, grille, calendrier)
+
+
+Catégorie 4 : Suivi & Analyse
+
+- Graphiques simples pour progression quotidienne, hebdo, mensuelle
+
+- Possibilité d’exporter données
+
+- Synchronisation multi-appareils (mobile, web)
+
+- Historique des tâches accomplies
+
+
+Catégorie 5 : Contexte Africain
+
+- Interface en français (option bilingue)
+
+- Apps légères et peu consommatrices de data
+
+- Compatible Android / smartphone low-mid range
+
+- Adaptée aux utilisateurs urbains et étudiants / freelances
+
+
+2️⃣ User Stories (FlowTrack)
+
+Voici des User Stories basées sur les personas et l’affinity mapping, en format classique “En tant que [persona], je veux [fonctionnalité], afin de [bénéfice]” :
+
+Pour Léa (perfectionniste débordée)
+
+- Je veux voir mes tâches du jour en un coup d’œil, afin de me concentrer sur l’essentiel.
+
+- Je veux recevoir un feedback positif à chaque tâche accomplie, afin de rester motivée sans stress.
+
+- Je veux une app légère et rapide, afin de ne pas surcharger mon téléphone ou ma connexion.
+
+
+Pour Yann (jeune pro ambitieux)
+
+- Je veux organiser mes tâches par priorité, afin de gérer mes projets professionnels et personnels efficacement.
+
+- Je veux consulter mes statistiques et graphiques de progression, afin de mesurer ma constance et mes résultats.
+
+- Je veux synchroniser mes données sur plusieurs appareils, afin de garder un suivi cohérent et complet.
+
+
+Pour Sarah (créative dispersée)
+
+- Je veux personnaliser le thème et les couleurs de l’app, afin de rester inspirée et motivée à utiliser FlowTrack.
+
+- Je veux pouvoir réorganiser mes tâches facilement, afin d’adapter ma journée à mon flux créatif.
+
+- Je veux visualiser mes chaînes de réussite de manière ludique, afin de rester motivée même lors des journées irrégulières.
+
+
+Stories transversales / globales
+
+- En tant qu’utilisateur FlowTrack, je veux ajouter rapidement une nouvelle tâche ou objectif, afin de ne pas perdre de temps.
+
+- En tant qu’utilisateur FlowTrack, je veux recevoir des notifications personnalisables, afin de rester motivé sans être dérangé.
+
+- En tant qu’utilisateur FlowTrack, je veux exporter ou partager mes données, afin de les intégrer à mes autres outils ou bilan personnel.
+
+
+💡 Prochaine étape UX naturelle :
+Avec l’Affinity Mapping et ces User Stories, on peut maintenant passer au wireframe / prototype en définissant :
+
+- Les écrans clés
+
+- Les parcours utilisateurs par persona
+
+- L’interface et ses interactions principales
